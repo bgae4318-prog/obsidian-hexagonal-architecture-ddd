@@ -1,5 +1,6 @@
 # 🏛️ Obsidian System for Software Architects
-![Architecture Dashboard](./images/dashboard.png)
+<img src="./images/dashboard.png" width="800" alt="Software Architecture Dashboard">
+
 This repository introduces a professional documentation framework for **Senior Backend Developers** and **Architects**. It focuses on bridging the gap between complex system design and personal knowledge management.
 
 ## 🎯 Technical Pillars
